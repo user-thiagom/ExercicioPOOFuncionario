@@ -1,0 +1,15 @@
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\bin\Debug\net6.0\ExercicioPOOFuncionario.exe
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\bin\Debug\net6.0\ExercicioPOOFuncionario.deps.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\bin\Debug\net6.0\ExercicioPOOFuncionario.runtimeconfig.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\bin\Debug\net6.0\ExercicioPOOFuncionario.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\bin\Debug\net6.0\ref\ExercicioPOOFuncionario.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\bin\Debug\net6.0\ExercicioPOOFuncionario.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.csproj.AssemblyReference.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.AssemblyInfoInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.AssemblyInfo.cs
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ref\ExercicioPOOFuncionario.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOFuncionario\obj\Debug\net6.0\ExercicioPOOFuncionario.genruntimeconfig.cache
